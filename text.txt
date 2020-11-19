@@ -1,8 +1,0 @@
-Hello,git!!!
-<<<<<<< HEAD
-file
-vytui tyuiop fgdfg
-=======
-
-vytui tyuiop fgdfg  BRANCH
->>>>>>> 31576a4 (Test branch)
